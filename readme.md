@@ -107,7 +107,7 @@ Mobile-first CSS improves:
 ## 👤 Author
 
 Built by **Evoctal**  
-https://mobilefirstcss.com
+https://sofyannsafsaf.fr
 
 ---
 
